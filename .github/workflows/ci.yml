@@ -42,4 +42,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/TheBasurman/student-converter:latest
+          tags: ghcr.io/thebasurman/student-converter:latest
